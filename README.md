@@ -1,9 +1,4 @@
-# git-course
-this repo for learning in elzero-course
-
-## discription
-this course is advanced course by comment line
-
-##version 5
+# Leon template
+coding for Leon template
 
 My site is published at https://ahmed-endless.github.io/Frist-Template/
